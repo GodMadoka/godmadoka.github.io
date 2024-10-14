@@ -16,7 +16,7 @@ export default defineThemeConfig({
   profile: {
     // 个人信息
     name: 'Ars_saki',
-    avatar: './icons/ye.png',
+    avatar: '/ye.png',
     description: '请为一切不真实之物感到骄傲，因为我们高于这个世界。',
     // 我们在梦里学会生活，然后回到现实...学会生存。
   },
